@@ -1,0 +1,47 @@
+company:
+  name: StoryCare
+  logo: logo-whitebg.png
+product_hmw: How might we get patients to follow their discharge instructions?
+tags:
+  - Health Tech
+  - Language Processing
+  - Text to image matching
+  - Machine Learning
+
+product_narrative: |
+  We make medical instructions intuitive to patients, by turning them into easy-to-read Instagram-like stories.
+  We're saving hospitals and payers money by fitting our technology into their existing backend system.
+  
+team:
+  picture: StoryCarers.jpg
+  roster:
+  - name: Roy Cohen
+    email: rc726@cornell.edu
+    picture: roy.jpg
+    program: CM
+  - name: Arpit Sabherwal
+    email: as3624@cornell.edu
+    picture: Arpit.jpg
+    program: HT
+  - name: Kripa Agarwal
+    email: ka467@cornell.edu
+    picture: kripa.jpg
+    program: CS
+  - name: Lucien Hwang
+    email: huany918@newschool.edu
+    picture: Lucien.jpg
+    program: Design
+  - name: Gautam Chheda
+    email: gc463@cornell.edu
+    picture: Gautam.jpg
+    program: CM
+    
+    
+assets:
+- title: Sprint 1
+  url: https://docs.google.com/presentation/d/17PvMudDMbmbkOy7uFzlfd73dqJfUuiEqp--R1ysc4Ys/edit?usp=sharing
+- title: Sprint 2
+  url: https://docs.google.com/presentation/d/17EXx6ZkGucKElmfdk4SI_CpaOertkCi93wkHqUp-tF0/edit?usp=sharing
+- title: Sprint 3
+  url: https://docs.google.com/presentation/d/17EXx6ZkGucKElmfdk4SI_CpaOertkCi93wkHqUp-tF0/edit?usp=sharing
+  

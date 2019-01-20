@@ -1,0 +1,6 @@
+docx==0.2.4
+watson_developer_cloud==1.0.2
+scipy==0.19.1
+Pillow==5.0.0
+Flask>=0.12
+twilio~=6.0.0
